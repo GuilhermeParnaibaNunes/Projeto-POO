@@ -1,4 +1,4 @@
 # Projeto-POO
 Projeto de POO em Java
 
-![image](https://github.com/user-attachments/assets/4f39b96d-8341-4170-8dd3-b1e0b9175ae2)
+![image](https://github.com/user-attachments/assets/ba1a7979-a8da-4592-b001-b575444badf6)
